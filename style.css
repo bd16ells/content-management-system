@@ -1,0 +1,37 @@
+.container {
+  border-style: none;
+}
+footer {
+	background-color: #FC6276;
+	padding: 10px;
+	overflow: auto;
+	border-radius: 6px;
+	margin-top: 20px;		
+}
+aside {
+	overflow: auto;
+	padding-left: 5px;
+	padding-right:5px;
+	margin-top: 20px;
+	border-radius: 8px;
+}
+
+.container {
+	padding-top: 40px;
+}
+
+td a {
+	display: block;
+	padding-top: 10px;
+}
+nav {
+	background-color: #FC6276;
+
+}
+footer a{
+	padding-right: 10px;
+}
+
+.btn-success{
+    margin: 10px 5px;
+}

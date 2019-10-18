@@ -5,4 +5,4 @@ This project was done in the Spring of 2018. It uses PHP, bootstrap and a SQLite
 The topic I chose was Web Development. Each category may be nested, with the parent page leading either to the main category or back to Programming.  
 # Control Panel:  
 ![alt text](https://raw.githubusercontent.com/bd16ells/content-management-system/master/assets/control_panel.png)  
-Once a user is authenticated, based on priveleges, they may add or remove content and manage relationships between content.
+Once a user is authenticated, based on privileges, they may add or remove content and manage relationships between content.
